@@ -1,13 +1,16 @@
-
 <!-- GitHub banner -->
 <p align="center">
   <img src="img/parallelium_banner_clean.png" alt="Parallelium – Aligned Scriptures Corpus banner" width="100%">
 </p>
 
-# 📖 Parallelium : an aligned scriptures dataset
+# 📖 Parallelium: an aligned scriptures dataset
 
 > A multilingual corpus of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for computational and philological alignment tasks.  
-> Serving as a benchmark dataset for multilingual alignment of historical religious texts.
+> It serves as a benchmark dataset for multilingual alignment of historical religious texts.
+
+> 📢 **Important Notice on Licensing**  
+> This repository includes *only alignment metadata*. Some source texts (especially medieval Bible translations and parts of the Qur’anic corpus) are **not redistributed** due to licensing restrictions.  
+> Please consult the documentation for access or citation of original sources.
 
 ## 📝 Description
 
@@ -105,3 +108,66 @@ The dataset is stored in structured JSON files:
 - **Multilingual format**: list of aligned verses, each with `book`, `ref`, and a `data` map of translations
 
 ➡️ See [docs/data_structure.md](docs/data_structure.md) for full examples and schema.
+
+## 🔍 Alignment Preview (Biblical Corpus)
+
+The snippet below illustrates how to explore aligned verse pairs in the JSON file.  
+Each verse contains a `book`, `ref`, and a `data` dictionary mapping version IDs to verse translations.
+
+```python
+import json
+
+with open("aligned_data.json") as f:
+    data = json.load(f)
+
+# Display all aligned French–Portuguese verse pairs from Genesis
+# 💡 Change language IDs below based on your alignment interest
+for verse in data:
+    if verse["book"] == "genesis":
+        fr = verse["data"].get("fr_lsegond")
+        pt = verse["data"].get("pt_almeida")
+        if fr and pt:
+            print(f'{verse["ref"]}:\nFR: {fr}\nPT: {pt}\n')
+```
+Note: aligned_data.json is not distributed due to licensing.
+Use this example to preview the data format and structure.
+
+---
+
+
+### 🔮 Future Directions
+
+This corpus is an initial foundation intended to grow. Several improvements are planned to enhance its usability, accuracy, and scholarly value:
+
+- Prioritize the **collection and structuring of additional medieval texts**, especially from **Romance-language traditions**, to rebalance the dataset—currently skewed toward modern sources—and progressively specialize it for historical modeling. This will improve alignment robustness for premodern domains and enable the training of models tailored to medieval textual data.
+
+- **Incorporate OCR/HTR of manuscript texts**  
+  Leveraging Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) will allow the inclusion of otherwise inaccessible sources, especially for underrepresented medieval texts not available in digital editions.
+
+- **Annotate editorial provenance and textual lineage**  
+  Metadata will be enriched to reflect the textual origin (e.g., manuscript family, editor, edition), enabling philological and stemmatic analysis across traditions.
+
+- **Develop a queryable interface or API**  
+  To support broader reuse and exploration, develop a queryable interface or lightweight CLI tool is under consideration, allowing users to search and extract aligned verses by book, chapter, language pair, or version — without requiring users to load the full dataset into memory
+
+### 🗂️ Versioning
+
+- **Current version**: `v0.1`  
+- **Next planned update**: Continued cleaning and integration of additional medieval texts already sourced — targeted for **Q4 2025**
+
+## 💰 Funding
+
+This work benefited from national funding managed by the **Agence Nationale de la Recherche** under the *Investissements d'avenir* programme with the reference **ANR-21-ESRE-0005 (Biblissima+)**.
+
+> Ce travail a bénéficié d'une aide de l’État gérée par l’**Agence Nationale de la Recherche** au titre du programme d’**Investissements d’avenir** portant la référence **ANR-21-ESRE-0005 (Biblissima+)**.
+
+
+<img src="img/logo_biblissima.png" alt="Biblissima+ Logo" width="700"/>
+
+
+### 📜 License
+
+The alignment metadata produced for this dataset are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise noted.
+
+> ⚠️ Some **source texts**—particularly certain medieval Bible translations and portions of the Qur’anic corpus—are **not included** in this repository due to third-party copyright restrictions.  
+> Please refer to the documentation or the original editions for licensing information on specific versions.
