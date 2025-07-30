@@ -180,10 +180,20 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 
 ## 📚 Documentation
 
-- 🧱 Data structure schema: [docs/data_structure.md](docs/data_structure.md)  
-- ⚙️ Alignment workflow: [docs/alignment_workflow.md](docs/alignment_workflow.md)  
-- 📐 Alignment criteria: [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md)  
-- 🧩 Structural exclusions and challenges: [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md)
+- 🧱 Data Structure Schema  
+  ➡️ [docs/data_structure.md](docs/data_structure.md)
+
+- ⚙️ Alignment Workflow  
+  ➡️ [docs/alignment_workflow.md](docs/alignment_workflow.md)
+
+- 📐 Alignment Guidelines  
+  ➡️ [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md)
+
+- 🧩 Structural Variation and Exclusions  
+  ➡️ [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md)
+
+- 📈 Dataset Statistics Summary  
+  ➡️ [docs/dataset_statistics.md](docs/dataset_statistics.md)
 
 
 ## 💰 Funding
