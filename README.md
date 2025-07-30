@@ -42,7 +42,10 @@ By providing aligned data across a wide range of languages and periods, the corp
 
 - Enable **robust training** of alignment systems for historical and philological contexts  
 - Support research on **translation shifts** and **textual transmission** across traditions  
-- Serve as a **flexible foundation** for extended corpus-building, enrichment, or annotation  
+- Serve as a **flexible foundation** for extended corpus-building, enrichment, or annotation
+
+  ➡️ See [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md) for detailed alignment criteria and pairing logic.
+
 
 ### 🎯 Intended for:
 - NLP researchers tackling low-resource or historical alignment  
@@ -86,11 +89,15 @@ The Biblical and Qur’anic texts were selected for their **structural compatibi
 
 > \* *These texts are not publicly shareable due to copyright restrictions.*
 
+➡️ See [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md) for notes on structural complexity, exclusions, and philological variation.
+
 ---
 
 ### 📅 Modern Editions
 
 Nine Bibles in French, English, Portuguese, Greek, and Spanish from [this repository](https://github.com/thiagobodruk/bible), used to augment language diversity.
+
+➡️ For preprocessing and integration steps, see [docs/alignment_workflow.md](docs/alignment_workflow.md).
 
 ---
 
@@ -154,6 +161,30 @@ This corpus is an initial foundation intended to grow. Several improvements are 
 
 - **Current version**: `v0.1`  
 - **Next planned update**: Continued cleaning and integration of additional medieval texts already sourced — targeted for **Q4 2025**
+
+## 🔗 Related Projects
+
+This repository is part of a broader ecosystem of tools and corpora developed for the study of medieval multilingual textual traditions:
+
+- [Aquilign](https://github.com/ProMeText/Aquilign)  
+  A clause-level multilingual alignment engine based on contextual embeddings (LaBSE), designed specifically for premodern texts.
+
+- [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data)  
+  Source texts and segmented versions in multiple medieval Romance languages, as well as Latin and English, used for training and evaluating clause segmentation models.
+
+- [Lancelot par maints langages](https://github.com/carolisteia/lancelot-par-maints-langages)  
+  A parallel corpus of translations of the *Lancelot en prose* in medieval French, Castilian, and Italian, segmented and aligned using the Aquilign pipeline.
+
+- [Multilingual Aegidius](https://github.com/ProMeText/Multilingual_Aegidius)  
+  A parallel corpus of translations of Aegidius Romanus’ *De regimine principum* in Latin, medieval Romance languages, and English, processed using the same segmentation and alignment workflow.
+
+## 📚 Documentation
+
+- 🧱 Data structure schema: [docs/data_structure.md](docs/data_structure.md)  
+- ⚙️ Alignment workflow: [docs/alignment_workflow.md](docs/alignment_workflow.md)  
+- 📐 Alignment criteria: [docs/verse_alignment_guidelines.md](docs/verse_alignment_guidelines.md)  
+- 🧩 Structural exclusions and challenges: [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md)
+
 
 ## 💰 Funding
 
