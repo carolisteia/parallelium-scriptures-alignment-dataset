@@ -1,0 +1,39 @@
+01: genesis: 1:1 En el prinçipio crio el señor los çielos & la tierra
+02: exodo: 1:1 Estos son los nonbres delos fijos de israel los que vjnjeron a egipto con jacob & cada vno de ellos vjnjeron con su casa:
+03: levitico: 1:1 E llamo a moysen & fablo dios con el desde la tienda del plazo & dixo le:
+04: numeros: 1:1 Fablo dios amoysen enel yermo de synay enla tienda del plazo en el primero dia del segundo mes que salleron de tierra de egipto diziendole
+05: deuteronomio: 1:1 Aquestas son las palabras que fablo moysen A todos los fijos de israel estando aquende del jordan en la playa enel desyerto en derecho del mar rrubjo entre paran & entre tofel & laban & haceroth & abondo de oro:
+06: josue: 1:1 E fue despues que murio moyses sieruo de djos dixo el señor ajosue fiio de nun menjstro de moyses djziendole
+07: jueces: 1:1 E fue despues que murio josue & demandaron los fijos de israel enel señor diciendo qujen sobira por nos otros apelear conel cananeo en prinçipio
+08: samuel_I: 1:1 Fue vn uaron de ramathaim sophim del monte de efraym & por nonbre auja elchana fijo de ierotham fijo de eliud fijo de thau fijo de suph efrateis
+09: samuel_II: 1:1 & despues de saul muerto & dauid buelto de matar alos de amalech dauid estouo en sichlech dos dias
+10: reyes_I: 1:1 vieio ya era el rey dauid entrado en dias atanto que avn que con paños lo cubrian non escalentaua:
+11: reyes_II: 1:1 i Moab rebelles fueron contra israhel despues dela muerte de achab
+12: isaias: 1:1 Vision de ysayas fiio de amos que vido sobre iuda & ierusalem. en dias de ozias iotham achaz & ezechias reyes de iuda.
+13: jeremias: 1:1 Palabras de ieremias fiio de elechias delos saçerdotes que habitauan en anathoth en tierra de beniamin
+14: ezequiel: 1:1 fue en treynta años enel quarto (dia) [mes] en çinco [dias] del mes & yo estaua en medio del captyuerio sobrel rio de chobar abrieron se los çielos & yo vy las visiones del señor
+15: oseas: 1:1 Palabra del sennor que fue fecha aosee fiio de beeri en dias de ozias iotham achaz ezechias reyes de iuda & en dias de ioroboam fiio de ioas rey de israel
+16: joel: 1:1 Palabra del sennor que fue fecha aiohel fiio de phatuel
+17: amos: 1:1 Palabras de amos que fue vn omne delos pastores que eran en thchue lo qual vido sobre iuda enlos dias de ozias rey de iuda & enlos dias de ioroboam fiio de ioas rey de israel dos años ante del terre motus
+18: abdias: 1:1 Vision de obadias asy dize el senor a edom vna tal cosa oydo del sennor auemos & mensagero en las gentes es enbiado leuantad vos & leuantemos nos contra ella ala batalla
+19: jonas: 1:1 Fecho fue sermon del sennor a iona fiio de amathi
+20: miqueas: 1:1 Palabra del sennor que fecha a micheas el morasti en dias de iotham achaz ezechias reyes de iuda lo qual vido sobre ierusalem & samaria
+21: nahum: 1:1 Profecia [carga] de niniue libro de vision de nahum el elcosy:
+22: habacuc: 1:1 La carga & propheçia que vido abacuch el propheta
+23: sofonias: 1:1 Palabra del sennor que fue fecha a sophonias fiio del cusy fiio de godolias fiio de amarias fiio de yzechias en dias de iosias fiio de amon rey de iuda
+24: ageo: 1:1 Enel segundo anno del rey dario enel sesto mes en el primero dia del mes fue fechos el sermon del sennor en mano de aggi el propheta que fuese a zorobael fiio de saaltiel duque de iuda & a iosue fiio de iosedech el mayro saçerdote & dixo
+25: zacarias: 1:1 En el ochauo mes enl segundo anno de dario fecha fue la plabra del sennor a zacharias fiio de barachias fiio de yddo el propheta diciendo le
+26: malaquias: 1:1 Carga dela palabra del sennor a israel en mano de malechias:
+27: salmos: 1:1 Bien auenturado es el uaron que non andouo en conseio de malos nin en via de pecadores non se paro nin en cathedra de escarnescedores non se assento
+28: job: 1:1 Un uaron fue en tierra de hus nonbre del qual iob era & fue aquel varon simple & derechero & de mal tirado & del señor temiente
+29: proverbios: 1:1 Ensienplos de salamon fiio de dauid rey de israhel
+30: rut: 1:1 Fue en tienpo que iudgauan los iuzes & fue fanbre en la tierra & fuese vn varon de betlehem a iuda a morar en el canpo de moab el & su muger & dos sus fiios
+31: cantar: 1:2 Beseme delos besos de la su boca que mejores son las tus tetas que vino
+32: eclesiastes: 1:1 Palabras del eclesiastes fiio de dauid rey de ierusalem:
+33: lamentaciones: 1:1 Commo esta sola la çibdat que de gente llena seer solia fecha es quasy biuda la señora delas gentes la prinçesa delas prouincias fecha es pechera:
+34: ester: 1:1 En los dias de assuero que fue rey desde las indias fasta ethiopia & rey fue sobre çiento & veynte & siete prouinçias
+35: daniel: 1:1 Enel año tercero que enreyno ioachin rey de iuda veno nabucodnosor rey de babilonia a ierusalem & cercola
+36: esdras: 1:1 Enel primero año de çiri rey de perssia en cunpliendose la palabra del señor por la boca de ieremias esperto el señor el spiritu de ciry rey de persia & en todo el su reyno pregonar fizo & tanbien por cartas & dixo:
+37: nehemias: 1:1 Palabras de neemias fiio de achalias son las que siguen
+38: cronicas_I: 1:1 Adam seth enos
+39: cronicas_II: 1:1 Muy rezio quedo salamon en su regno & el señor su dios era conel & magnificolo mucho el señor ademas

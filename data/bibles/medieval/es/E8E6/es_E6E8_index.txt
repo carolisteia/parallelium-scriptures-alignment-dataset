@@ -1,0 +1,75 @@
+01: levitico: 1:1 dios llamo a moysen dela tienda del paramjento y dixole
+02: numeros: 1:1 Fablo dios amoysen sierto de sinay enla tienda que era del paramiento el primero dia del segundo mes & del segundo aynno desque saillieron de tierra de egipto & dixo.
+03: deuteronomio: 1:1 Estas son las palauras que dixo moysen atodo el pueblo de Israel dallent [de] Jordan enel yermo dela Campinna esquoantra el mar Rubro entre pharan & tophel. & laban. et asseroth. do es el mucho, oro,
+04: josue: 1:1 Assi fue que empues la muert de moysen sieruo de dios fablo dios aJosue, sergent de moysen & fijo de nun et dixo.
+05: jueces: 1:1 Depues dela muert de Josue los fijos de Israel demandaron consseio adios & dixieron. Qual subra delante nos esquantral pueblo cananeo & sera cabdieillo dela batailla,
+06: samuel I: 1:1 Fue vn ombre de Ramathaym Sophim dela Sierra de effraym et ouo nombre elchana fijo de Jeroboam, fijo de elyu, fijo de thau, fijo de Suth euffrateo
+07: samuel II: 1:1 Deppues que fue muerto saul, & dauid fue tornado dela matança de amalech, & auie morado en sicelech dos dias
+08: reyes I: 1:1 El Rey dauid enueieçiera et auie muchos aynnos, et maguer vistie sus paynnos no escalentaua,
+09: reyes II: 1:1 Despues que murio acab tirose moab de vassallage de israel.
+10: isaias: 1:1 Esta es uision de ysayas fide amos que uio sobre iuda e iherusalem en los dias de ozias e de ioatan e de acaz e de ezequias reyes de iuda
+11: jeremias: 1:1 Estas son palauras de iheremias fide elchias de los sacerdotes que fueron en anatoth en tierra de beniamin
+12: ezequiel: 1:1 Esto fue en el treinteno anno en el quarto mes en el quinto dia del mes estando yo entre los catiuos cabo el rio que es dicho chobar; abrieron se los cielos e ui una uision de dios.
+13: oseas: 1:1 Esta es palaura de dios que uino a osee fide beeri en los dias de ozias e de ioathan e de achaz e de ezechias reyes de iuda e en los dias de iheroboam fide ioas rey de israhel.
+14: joel: 1:1 Esta es palaura de dios que uino a ioel fide fatuel.
+15: amos: 1:1 Estas son palauras de amos que fue en las maiadas de thecua de lo que uio sobre israhel. en los dias de ozias rey de iuda. e en los dias de ihoboam fide ioas rey de israhel. dos annos ante del terremoto
+16: abdias: 1:1 Esta es uision de abdias. Esto dize el sennor dios a edom. Oyemos oymiento de dios e mandado enuio a las yentes. Leuantat uos e uayamos contra el en batalla.
+17: jonas: 1:1 Palaura de dios uino a ionas fide amati diziendol.
+18: miqueas: 1:1 Esta es palaura de dios que uino a micheas morastes en los dias de ioathan e de achaz e de ezechias reyes de iuda. que uio sobre samaria e sobre iherusalem.
+19: nahum: 1:1 Esta es carga de niniue. Est es el libro de las uisiones de naum elcheseo.
+20: habacuc: 1:1 Esta es carga que uio abachuc propheta.
+21: sofonias: 1:1 Esta es palaura de dios que uino a sophonias fide chusi fide godolias fide amasias fide ezechias. en los dias de iosias fide amon rey de iuda.
+22: ageo: 1:1 En el segundo anno de dario rey de persia. en el sexto mes un dia del mes uino palaura de dios por mano del propheta aggeo a zorobabel fide salatiel capdiello de iuda. e a ihesu fide iosedech el grand sacerdot diziendo.
+23: zacarias: 1:1 En el ochauo mes del segundo anno que regno dario uino palaura de dios a zacharias propheta fide barachias e dixol.
+24: malaquias: 1:1 Esta es carga de dios contra israhel. por mano de malachias propheta.
+25: salmos: 1:1 O que bien auenturado es el varon que no ha, dubdo enel consseio, delos malos & enla, Carrera delos peccadores, non souo &, non souo enla morança delos que fablan vanidades.
+26: job: 1:1 Un honbre fue en tierra de hus que auia nonbre Job & aquel honbre era sinple & drechurero & temient adios & quito del mal
+27: proverbios: 1:1 Estos son prouerbios de salomon fide dauid rey de israhel
+28: jueces: 1:1 En los dias de vn Juez, quando los Juezes eran en Israel, ouo grant fambre enla tierra & fue (no) vn hombre de bethlleem de Juda, agoarescer ala tierra de moab con su muger &, con sus dos fijos
+29: cantar: 1:2 Bese me con el beso de su boca. Ca meiores son las tus tetas que el uino.
+30: eclesiastes: 1:1 Estas son palabras de ecclesiastes fide dauid rey de iherusalem.
+31: lamentaciones: 1:1 La ciudat llena de pueblo cuemo esta sola tornada es cuemo biuda la sennora de las yentes. la que era capdiello de las prouincias es tornada en subieccion
+32: ester: 1:1 Enlos dias del Rey assuero que Regno desde India, ata ethiopia, Sobre Ciento & veinte siete proujncias
+33: daniel: 1:1 En el tercero anno que regno ioachim rey de iuda uino nabucodonosor rey de babilonna a iherusalem e cerco la.
+34: esdras: 1:1 Enel primer aynno que Regno ciro Rey de perssia conplida la palaura de dios que dixiere a Iheremias propheta leuantando dios el espiritu de ciro Rey de perssia, et Imbio dezir por todo su Regno & con su carta que dezia assi
+35: nehemias: 1:1 Palauras de neemias fide elchias esto fue fecho enel que es dicho esleu enel veynteno aynno & yo era en vn castieillo de susis
+36: cronicas I: 1:1 Adam. seth. enos.
+37: cronicas II: 1:1 Apoderado fue salomon en su Regno & dios era con el et puso lo en grant altura.
+38: tobias: 1:1 Thobias del linage & dela ciubdat de nepthalim que es en las alturas de galilea sobre naason . tras la carrera que va escuentra sol ponient & a desiniestro la ciubdat de sephet
+39: judith: 1:1 Arphaxat Rey de media, auia muchas gens, subiugadas a su emperio & eill fizo vna Cibdat muy poderosa & pusol nombre echbathanis
+40: ester-adiciones: 10:4 E dixo mardocheo dios fezo estas cosas
+41: sabiduria: 1:1 Amat iusticia los que iudgades la tierra. Creet de dios todo bien. e buscat le con simple coraçon.
+42: eclesiastico: 1:1 Todo saber de dios uiene e con el fue siempre. e fue ante del copeçamiento.
+43: baruc: 1:1 Estas son palauras que escriuio baruc fide nerias fide amasias. fide sedechias. fide sedey. fide elchias. en babilonna
+44: carta de Jeremías: 1:1 Por los pecados que fiziestes contra dios seredes leuados en babilonna o uos leuara nabucodonosor rey de babilonna.
+45: cántico de los tres jóvenes (daniel): 3:24 E andauan en medio de la llama. loando e bendiziendo a dios.
+46: 1 Macabeos: 1:1 Esto fue depues que Alexandre rey de macedonia que regno primero en grecia. salio de tierra de cethym e uencio a Dario rey de los persianos e de los medos.
+47: 2 Macabeos: 1:1 A los ermanos iudios que son en egypto los sos ermanos iudios que son en ierusalem e en la tierra de iudea enuian salut e bona paz.
+48: Mateo: 1:1 Est es el libro de la generacion de ihesu christo fide dauid el fide abraham.
+49: Marcos: 1:1 Est es el compeçamiento del euangelio de ihesu christo fide dios
+50: Lucas: 1:5 En los dias de herodes el rey de iudea; fue un sacerdot que ouo nombre zacharias de la uez de abias e auie mugier de las fijas de aaron. e auie nombre helisabeth.
+51: Juan: 1:1 En el compeçamiento era uierbo e uierbo era en dios; e dios era uierbo.
+52: Hechos: 1:1 O theophilo. El primero sermon fiz de todas las cosas que ihesu christo fizo e amostro;
+53: Romanos: 1:1 Paulo sieruo de christo. llamado apostol apartado en el euangelio de dios
+54: 1 Corintios: 1:1 Paulo llamado mandadero de ihesu christo por la uoluntat de dios. e sostenes hermano
+55: 2 Corintios: 1:1 Paulo apostol de ihesu christo por la uoluntad de dios e timotheo nuestro hermano ala eglesia de dios que es en corinto con todos los sanctos que son en toda acaya.
+56: Gálatas: 1:1 Paulo apostol non de los ombres ni por ombre. mas por ihesu christo e por dios padre uerdadero que resucito a el dentre los muertos.
+57: Efesios: 1:1 PAulo apostol de ihesu christo por la uoluntad de dios a todos los santos que son en epheso e alos fieles en ihesu christo.
+58: Filipenses: 1:1 Paulo e e thimotheo sieruos de ihesu christo a todos los santos que son en philipiscon. con Obispos e con diachonos;
+59: Colosenses: 1:1 PAulo apostol de ihesu christo por uoluntat de dios e thimoteo con el.
+60: 1 Tesalonicenses: 1:1 PAulo e siluano e thimotheo ala eglesia de thessalonica en dios padre e en nuestro sennor ihesu christo. Gracia e paz sea auos.
+61: 2 Tesalonicenses: 1:1 PAulo e siluano e thimotheo ala eglesia de thesalonica en dios nuestro padre e en nuestro sennor ihesu christo;
+62: 1 Timoteo: 1:1 PAulo apostol de ihesu christo segund el mandamiento de dios nuestro saluador e de ihesu christo nuestra esperança.
+63: 2 Timoteo: 1:1 PAulo apostol de ihesu christo por uoluntat de dios segund el prometimiento de uida que es en ihesu christo.
+64: Tito: 1:1 PAulo sieruo de dios apostol de ihesu christo segund la fe de los escogidos de dios e del connocimiento de uerdat que es segund piedat
+65: Filemón: 1:1 PAulo el preso de ihesu christo e timotheo ell hermano a philemon nuestro amado ayudador
+66: Hebreos: 1:1 Tiempo a que fablo dios en muchas partes y en muchas maneras por las bocas de los padres prophetas.
+67: Santiago: 1:1 Iague sieruo de dios e del nuestro sennor ihesu christo. alos dodze linages que son esparzidos salut.
+68: 1 Pedro: 1:1 Pedro apostol de ihesu christo alos escogidos auenedizos del esparzimiento de ponto e de galacia. de capadocia. de asia. e de bithinia
+69: 2 Pedro: 1:1 Simon pedro sieruo e apostol de ihesu christo alos que ouieron connusco egual fe por suerte en la iusticia de nuestro dios e de nuestro saluador ihesu christo.
+70: 1 Juan: 1:1 Lo que fue desdel compeçamiento. lo que oyemos e lo que uiemos. e con nuestros oios catamos. e nuestras manos apalparon del uierbo de uida.
+71: 2 Juan: 1:1 El uieio ala sennora electa e a sos fijos los que yo amo en uerdat. e no yo solo. mas todos los que connocen uerdat.
+72: 3 Juan: 1:1 El uieio a Gayomio amigo el que yo mucho amo en la uerdat de amor.
+73: Judas: 1:1 Jvdas sieruo de ihesu christo hermano de yague. A aquellos que son amados en dios padre. e guardados e llamados en ihesu christo.
+74: Apocalipsis: 1:1 Este es ell apocalipso de ihesu christo que dios dio a el por descobrir a los sos sieruos las cosas que conuiene seer fechas ayna. Y enuiando el so angel. mostro a so sieruo iohan
+75: 2 Crónicas: 1:1 Fizo Josias pasca en Jerusalem adios aqueilla que es dicha phase en la quarta decima luna del primer mes

@@ -1,0 +1,75 @@
+01: genesis: 1:1 in principio creavit Deus caelum et terram
+02: exodus: 1:1 haec sunt nomina filiorum Israhel qui ingressi sunt Aegyptum cum Iacob singuli cum domibus suis introierunt
+03: leviticus: 1:1 vocavit autem Mosen et locutus est ei Dominus de tabernaculo testimonii dicens
+04: numeri: 1:1 locutusque est Dominus ad Mosen in deserto Sinai in tabernaculo foederis prima die mensis secundi anno altero egressionis eorum ex Aegypto dicens
+05: deuteronomium: 1:1 haec sunt verba quae locutus est Moses ad omnem Israhel trans Iordanem in solitudine campestri contra mare Rubrum inter Pharan et Thophel et Laban et Aseroth ubi auri est plurimum
+06: iosue: 1:1 et factum est ut post mortem Mosi servi Domini loqueretur Dominus ad Iosue filium Nun ministrum Mosi et diceret ei
+07: iudicum: 1:1 post mortem Iosue consuluerunt filii Israhel Dominum dicentes quis ascendet ante nos contra Chananeum et erit dux belli
+08: ruth: 1:1 in diebus unius iudicis quando iudices praeerant facta est fames in terra abiitque homo de Bethleem Iuda ut peregrinaretur in regione moabitide cum uxore sua ac duobus liberis
+09: i samuelis: 1:1 fuit vir unus de Ramathaimsophim de monte Ephraim et nomen eius Helcana filius Hieroam filii Heliu filii Thau filii Suph Ephratheus
+10: ii samuelis: 1:1 factum est autem postquam mortuus est Saul ut David reverteretur a caede Amalech et maneret in Siceleg dies duos
+11: i regum: 1:1 et rex David senuerat habebatque aetatis plurimos dies cumque operiretur vestibus non calefiebat
+12: regum ii: 1:1 praevaricatus est autem Moab in Israhel postquam mortuus est Ahab
+13: i paralipomenon: 1:1 Adam Seth Enos
+14: ii paralipomenon: 1:1 confortatus est ergo Salomon filius David in regno suo et Dominus erat cum eo et magnificavit eum in excelsum
+15: esdrae: 1:1 in anno primo Cyri regis Persarum ut conpleretur verbum Domini ex ore Hieremiae suscitavit Dominus spiritum Cyri regis Persarum et transduxit vocem in universo regno suo etiam per scripturam dicens
+16: nehemiae: 1:1 verba Neemiae filii Echliae et factum est in mense casleu anno vicesimo et ego eram in Susis castro
+17: tobiae: 1:1 Tobias ex tribu et civitate Nepthalim quae est in superioribus Galileae supra Naasson post viam quae ducit ad occidentem in sinistro habens civitatem Sephet
+18: iudith: 1:1 Arfaxat itaque rex Medorum subiugaverat multas gentes imperio suo et ipse aedificavit civitatem potentissimam quam appellavit Igbathanis
+19: esther: 1:1 in diebus Asueri Cf. Est 11,2-12,6 qui regnavit ab India usque Aethiopiam super centum viginti septem provincias
+20: iob: 1:1 vir erat in terra Hus nomine Iob et erat vir ille simplex et rectus ac timens Deum et recedens a malo
+21: psalmi: 1:1 beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentiae non sedit
+22: proverbia: 1:1 parabolae Salomonis filii David regis Israhel
+23: ecclesiasticus: 1:1 verba Ecclesiastes filii David regis Hierusalem
+24: canticum canticorum: 1:1 osculetur me osculo oris sui quia meliora sunt ubera tua vino
+25: sapientia: 1:1 diligite iustitiam qui iudicatis terram sentite de Domino in bonitate et in simplicitate cordis quaerite illum
+26: isaias: 1:1 visio Isaiae filii Amos quam vidit super Iudam et Hierusalem in diebus Oziae Ioatham Ahaz Ezechiae regum Iuda
+27: ieremias: 1:1 verba Hieremiae filii Helciae de sacerdotibus qui fuerunt in Anathoth in terra Beniamin
+28: lamentationes: 1:1 ALEPH quomodo sedit sola civitas plena populo facta est quasi vidua domina gentium princeps provinciarum facta est sub tributo
+29: baruch: 1:1 et haec verba libri quae scripsit Baruch filius Neeri filius Maasei filii Sedechiae filii Sedei filii Helchiae in Babylonia
+30: ezechiel: 1:1 et factum est in tricesimo anno in quarto mense in quinta mensis cum essem in medio captivorum iuxta fluvium Chobar aperti sunt caeli et vidi visiones Dei
+31: osee: 1:1 verbum Domini quod factum est ad Osee filium Beeri in diebus Oziae Ioatham Ahaz Ezechiae regum Iuda et in diebus Hieroboam filii Ioas regis Israhel
+32: ioel: 1:1 verbum Domini quod factum est ad Iohel filium Fatuhel
+33: amos: 1:1 verba Amos qui fuit in pastoralibus de Thecuae quae vidit super Israhel in diebus Oziae regis Iuda et in diebus Hieroboam filii Ioas regis Israhel ante duos annos terraemotus
+34: abdias: 1:1 visio Abdiae haec dicit Dominus Deus ad Edom auditum audivimus a Domino et legatum ad gentes misit surgite et consurgamus adversum eum in proelium
+35: ionas: 1:1 et factum est verbum Domini ad Ionam filium Amathi dicens
+36: michaeas: 1:1 verbum Domini quod factum est ad Micham Morasthiten in diebus Ioatham Ahaz Ezechiae regum Iuda quod vidit super Samariam et Hierusalem
+37: naum: 1:1 onus Nineve liber visionis Naum Helcesei
+38: abacuc: 1:1 onus quod vidit Abacuc propheta
+39: sophonias: 1:1 verbum Domini quod factum est ad Sofoniam filium Chusi filium Godoliae filii Amariae filii Ezechiae in diebus Iosiae filii Amon regis Iuda
+40: aggaeus: 1:1 in anno secundo Darii regis in mense sexto in die una mensis factum est verbum Domini in manu Aggei prophetae ad Zorobabel filium Salathihel ducem Iuda et ad Iesum filium Iosedech sacerdotem magnum dicens
+41: zacharias: 1:1 in mense octavo in anno secundo Darii factum est verbum Domini ad Zacchariam filium Barachiae filium Addo prophetam dicens
+42: malachias: 1:1 onus verbi Domini ad Israhel in manu Malachi
+43: iii esdrae: 1:1 et egit Iosias pascha in Hierosolymis Domino suo et immolavit phase quartadecima luna primi mensis,
+44: iv esdrae: 1:1 liber Ezrae prophetae, filii Sarei, filii Azarei, filii Helchiae, filii Salame, filii Sadoch, filii Acitob,
+45: i machabaeorum: 1:1 et factum est postquam percussit Alexander Philippi Macedo qui primus regnavit in Graecia egressus de terra Cetthim Darium regem Persarum et Medorum
+46: ii machabaeorum: 1:1 fratribus qui sunt per Aegyptum Iudaeis salutem dicunt fratres qui sunt in Hierosolymis Iudaei et qui in regione Iudaeae et pacem bonam
+47: matthaeus: 1:1 liber generationis Iesu Christi filii David filii Abraham
+48: marcus: 1:1 initium evangelii Iesu Christi Filii Dei
+49: lucas: 1:1 quoniam quidem multi conati sunt ordinare narrationem quae in nobis conpletae sunt rerum
+50: ioannes: 1:1 in principio erat Verbum et Verbum erat apud Deum et Deus erat Verbum
+51: actus apostolorum: 1:1 primum quidem sermonem feci de omnibus o Theophile quae coepit Iesus facere et docere
+52: romanos: 1:1 Paulus servus Christi Iesu vocatus apostolus segregatus in evangelium Dei
+53: i corinthios: 1:1 Paulus vocatus apostolus Christi Iesu per voluntatem Dei et Sosthenes frater
+54: ii corinthios: 1:1 Paulus apostolus Iesu Christi per voluntatem Dei et Timotheus frater ecclesiae Dei quae est Corinthi cum sanctis omnibus qui sunt in universa Achaia
+55: galatas: 1:1 Paulus apostolus non ab hominibus neque per hominem sed per Iesum Christum et Deum Patrem qui suscitavit eum a mortuis
+56: ephesios: 1:1 Paulus apostolus Christi Iesu per voluntatem Dei sanctis omnibus qui sunt Ephesi et fidelibus in Christo Iesu
+57: philippenses: 1:1 Paulus et Timotheus servi Iesu Christi omnibus sanctis in Christo Iesu qui sunt Philippis cum episcopis et diaconis
+58: colossenses: 1:1 Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus frater
+59: i thessalonicenses: 1:1 Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre et Domino Iesu Christo gratia vobis et pax
+60: ii thessalonicenses: 1:1 Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre nostro et Domino Iesu Christo
+61: i timotheum: 1:1 Paulus apostolus Christi Iesu secundum imperium Dei salvatoris nostri et Christi Iesu spei nostrae
+62: ii timotheum: 1:1 Paulus apostolus Christi Iesu per voluntatem Dei secundum promissionem vitae quae est in Christo Iesu
+63: titum: 1:1 Paulus servus Dei apostolus autem Iesu Christi secundum fidem electorum Dei et agnitionem veritatis quae secundum pietatem est
+64: philemonem: 1:1 Paulus vinctus Iesu Christi et Timotheus frater Philemoni dilecto et adiutori nostro
+65: hebraeos: 1:1 multifariam et multis modis olim Deus loquens patribus in prophetis
+66: iacobi: 1:1 Iacobus Dei et Domini nostri Iesu Christi servus duodecim tribubus quae sunt in dispersione salutem
+67: i petri: 1:1 Petrus apostolus Iesu Christi electis advenis dispersionis Ponti Galatiae Cappadociae Asiae et Bithyniae
+68: ii petri: 1:1 Simon Petrus servus et apostolus Iesu Christi his qui coaequalem nobis sortiti sunt fidem in iustitia Dei nostri et salvatoris Iesu Christi
+69: i ioannis: 1:1 quod fuit ab initio quod audivimus quod vidimus oculis nostris quod perspeximus et manus nostrae temptaverunt de verbo vitae
+70: ii ioannis: 1:1 senior electae dominae et natis eius quos ego diligo in veritate et non ego solus sed et omnes qui cognoverunt veritatem
+71: iii ioannis: 1:1 senior Gaio carissimo quem ego diligo in veritate
+72: iudae: 1:1 Iudas Iesu Christi servus frater autem Iacobi his qui in Deo Patre dilectis et Iesu Christo conservatis vocatis
+73: apocalypsis: 1:1 apocalypsis Iesu Christi quam dedit illi Deus palam facere servis suis quae oportet fieri cito et significavit mittens per angelum suum servo suo Iohanni
+74: laodiciae: 1:1 Paulus apostolus non ab hominibus neque per hominem sed per Iesum Christum, fratribus qui sunt Laodiciae.
+75: psalmi: 1:1 beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit in cathedra derisorum non sedit

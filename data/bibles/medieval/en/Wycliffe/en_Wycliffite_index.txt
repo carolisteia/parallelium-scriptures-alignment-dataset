@@ -1,0 +1,76 @@
+01_genesis: 1:1 In the bigynnyng God made of nouyt heuene and erthe.
+02_exodus: 1:1 These ben the names of the sones of Israel, that entriden into Egipt with Jacob; alle entriden with her housis;
+03_leviticus: 1:1 FORSOTHE the Lord clepide Moyses, and spak to him fro the tabernacle of witnessyng, `and seide,
+04_numbers: 1:1 And the Lord spak to Moises in the deseert of Synay, in the tabernacle of the boond of pees, in the firste day of the secounde monethe, in the tother yeer of her goyng out of Egipt,
+05_deuteronomy: 1:1 These ben the wordis whiche Moyses spak to al Israel ouer Jordan, in the wildirnesse of the feeld, ayens the reed see, bitwix Pharan and Tophel and Laban and Asseroth, where is ful myche gold,
+06_joshua: 1:1 And it was doon aftir the deeth of Moyses, seruaunt of the Lord, that the Lord spak to Josue, sone of Nun, the mynystre of Moyses, and seide to hym, Moises, my seruaunt, is deed;
+07_judges: 1:1 Aftir the deeth of Josue the sones of Israel counseliden the Lord, and seiden, Who schal stie bifor vs ayens Cananei, and schal be duik of the batel?
+08_ruth: 1:1 In the daies of o iuge, whanne iugis weren souereynes, hungur was maad in the lond; and a man of Bethleem of Juda yede to be a pylgrym in the cuntrei of Moab, with his wijf and twey fre sones.
+09_1_kings: 1:1 `A man was of `Ramathym of Sophym, of the hil of Effraym, and his name was Elchana, the sone of Jeroboam, sone of Elyud, sone of Thau, sone of Suph, of Effraym.
+10_2_kings: 1:1 Forsothe it was doon, after that Saul was deed, that Dauid turnede ayen fro the sleyng of Amalech, and dwellide twei daies in Sichelech.
+11_3_kings: 1:1 And kyng Dauid wax eld, and hadde ful many daies of age; and whanne he was hilid with clothis, he was not maad hoot.
+12_4_kings: 1:1 Forsothe Moab trespasside ayens Israel, after that Achab was deed.
+13_1_paralipomenon: 1:1 Adam gendride Seth; Enos,
+14_2_paralipomenon: 1:1 Therfor Salomon, the sone of Dauid, was coumfortid in his rewme, and the Lord was with hym, and magnefiede hym an hiy.
+15_1_esdras: 1:1 In the firste yeer of Cirus, kyng of Persis, that the word of the Lord bi the mouth of Jeremye schulde be fillid, the Lord reiside the spirit of Cyrus, kyng of Persis; and he pupplischide a vois in al his rewme, ye, bi the scripture, and seide, Cirus,
+16_2_esdras: 1:1 The wordis of Neemye, the sone of Helchie. And it was doon in the monethe Casleu, in the twentithe yeer, and Y was in the castel Susis;
+17_3_esdras: 1:1 And Josias made pask in Jerusalem to the Lord, and he offride pask the fourtenthe day of the monthe of the first monthe,
+18_tobit: 1:1 Tobie was of the lynage and citee of Neptalym, which is in the hiyere partis of Galilee, aboue Naason, bihynde the weie that ledith to the west, and hath in the lefte side the citee of Sapheth,
+19_judith: 1:1 `And so Arphaxat, kyng of Medeis, hadde maad suget many folkis to his empire; and he bildide a ful myyti citee, which he clepide Egbathanys.
+20_esther: 1:1 In the daies of kyng Assuerus, that regnede fro Ynde `til to Ethiopie, on an hundrid and seuene and twenti prouynces, whanne he sat in the seete of his rewme,
+21_job: 1:1 `A man, Joob bi name, was in the lond of Hus; and thilke man was symple, and riytful, and dredynge God, and goynge awey fro yuel.
+22_psalms: 1:1 Blessid is the man, that yede not in the councel of wickid men; and stood not in the weie of synneris, and sat not in the chaier of pestilence.
+23_proverbs: 1:1 The parablis of Salomon, the sone of Dauid, king of Israel;
+24_ecclesiastes: 1:1 The wordis of Ecclesiastes, sone of Dauid, the kyng of Jerusalem.
+25_songes_of_songes: 1:1 Kisse he me with the cos of his mouth.
+26_wisdom: 1:1 Ye that demen the erthe, loue riytfulnesse; feele ye of the Lord in goodnesse, and seke ye hym in the symplenesse of herte.
+27_syrach: 1:1 Al wisdom is of the Lord God, and was euere with hym, and is bifore the world.
+28_isaiah: 1:1 The visioun, ether profesie, of Ysaie, the sone of Amos, which he siy on Juda and Jerusalem, in the daies of Osie, of Joathan, of Achas, and of Ezechie, kyngis of Juda.
+29_jeremiah: 1:1 The wordis of Jeremye, sone of Helchie, of the preestis that weren in Anathot, in the lond of Beniamyn.
+30_lamentations: 1:1 Aleph. Hou sittith aloone the citee ful of puple? the ladi of folkis is maad as a widewe; the prince of prouynces is maad vndir tribute.
+31_preier_of_jeremye: 1:1 For the synnes which ye synneden bifor God, ye schulen be led prisoneris in to Babiloyne, of Nabugodonosor, kyng of Babiloynes.
+32_baruk: 1:1 And these ben the wordis of the book, which Baruk, the sone of Nerie, sone of Maasie, sone of Sedechie, sone of Sedei, sone of Helchie, wroot in Babilonye;
+33_ezechiel: 1:1 And it was don, in the thrittithe yeer, in the fourthe monethe, in the fyuethe dai of the moneth, whanne Y was in the myddis of caitifs, bisidis the flood Chobar, heuenes weren openyd, and Y siy the reuelaciouns of God.
+34_daniel: 1:1 In the thridde yeer of the rewme of Joachym, king of Juda, Nabugodonosor, the kyng of Babiloyne, cam to Jerusalem, and bisegide it.
+35_osee: 1:1 The word of the Lord that was maad to Osee, the sone of Bery, in the daies of Osie, Joathan, Achas, Ezechie, kingis of Juda, and in the daies of Jeroboam, sone of Joas, the kyng of Israel.
+36_joel: 1:1 The word of the Lord is this, that was maad to Joel, the sone of Phatuel.
+37_amos: 1:1 The wordis of Amos ben these, that was in the schepherdis thingis of Thecue, whiche he siy on Israel, in the daies of Osie, king of Juda, and in the daies of Jeroboam, sone of Joas, kyng of Israel, bifor twei yeeris of the erthe mouynge.
+38_abdias: 1:1 Visioun of Abdias. The Lord God seith these thingis to Edom. We herden an heryng of the Lord, and he sente a messanger to hethene men. Rise ye, and togidere rise we ayens hym in to batel.
+39_jonas: 1:1 And the word of the Lord was maad to Jonas,
+40_mychee: 1:1 The word of the Lord, which was maad to `Mychee of Morasti, in the daies of Joathan, Achas, Ezechie, kyngis of Juda; which word he sai on Samarie, and Jerusalem.
+41_naum: 1:1 The birthun of Nynyue; the book of visioun of Naum Helcesei.
+42_abacuk: 1:1 The birthun that Abacuk, the profete, sai.
+43_sofonye: 1:1 The word of the Lord, that was maad to Sofonye, sone of Chusi, sone of Godolie, sone of Amasie, sone of Ezechie, in the daies of Josie, the sone of Amon, king of Juda.
+44_aggey: 1:1 In the secounde yeer of Darius, kyng of Persis, in the sixte monethe, in the firste dai of the monethe, the word of the Lord was maad in the hond of Aggey, profete, to Sorobabel, sone of Salatiel, duyk of Juda, and to Jhesu, the greet preest, sone of Josedech,
+45_sacarie: 1:1 In the eiythe monethe, in the secounde yeer of Darius, the word of the Lord was maad to Sacarie, the sone of Barachie, the sone of Addo,
+46_malachie: 1:1 The birthun of the word of the Lord to Israel, in the hond of Malachie, the profete.
+47_1_machabeis: 1:1 And it was don, aftir that Alisaundre of Filip, king of Macedoyne, which regnede first in Grece, and yede out of the lond of Sethym, smoot Darius, king of Perseis and of Medeis,
+48_2_machabeis: 1:1 To britheren Jewis, that ben scaterid thorouy Egipt, britheren, that ben in Jerusalem, Jewis, and that ben in the cuntre of Judee, seien heelthe and good pees.
+49_matheu: 1:1 The book of the generacioun of Jhesu Crist, the sone of Dauid, the sone of Abraham.
+50_mark: 1:1 The bigynnyng of the gospel of Jhesu Crist, the sone of God.
+51_luke: 1:1 Forsothe for manye men enforceden to ordeyne the tellyng of thingis, whiche ben fillid in vs,
+52_john: 1:1 In the bigynnyng was the word, and the word was at God, and God was the word.
+53_dedis_of_apostlis: 1:1 Theofle, first `Y made a sermoun of alle thingis, that Jhesu bigan to do and to teche,
+54_romaynes: 1:1 Poul, the seruaunt of Jhesu Crist, clepid an apostle, departid in to the gospel of God;
+55_1_corinthis: 1:1 Poul, clepid apostle of Jhesu Crist, bi the wille of God, and Sostenes, brothir, to the chirche of God that is at Corynthe,
+56_2_corinthis: 1:1 Poul, apostle of Jhesu Crist, bi the wille of God, and Tymothe, brothir, to the chirche of God that is at Corinthi, with alle seyntis that ben in al Acaie, grace to you,
+57_galathies: 1:1 Poul the apostle, not of men, ne bi man, but bi Jhesu Crist, and God the fadir,
+58_effesies: 1:1 Poul, the apostle of Jhesu Crist, bi the wille of God, to alle seyntis that ben at Effesie, and to the feithful men in Jhesu Crist,
+59_filipensis: 1:1 Poul and Tymothe, seruauntis of Jhesu Crist, to alle the hooli men in Crist Jhesu, that ben at Filippis, with bischopis and dekenes,
+60_colosencis: 1:1 Poul, apostle of `Crist Jhesu, bi the wille of God,
+61_1_thessalonycensis: 1:1 Poul, and Siluan, and Tymothe, to the chirche of Tessalonicensis, in God the fadir,
+62_2_thessalonycensis: 1:1 Poul, and Siluan, and Tymothe, to the chirche of Tessalonicensis, in God oure fadir,
+63_1_tymothe: 1:1 Poul, apostle `of Jhesu Crist, bi the comaundement of God oure sauyour, and of Jhesu Crist oure hope,
+64_2_tymothe: 1:1 Poul, apostle of Jhesu Crist, bi the wille of God, bi the biheest of lijf that is in Crist Jhesu,
+65_tite: 1:1 Poul, the seruaunt of God, and apostle of Jhesu Crist, bi the feith of the chosun of God, and bi the knowing of the treuthe,
+66_filemon: 1:1 Poul, the boundun of Crist Jhesu, and Timothe, brother, to Filemon, bilouyd, and oure helpere, and to Appia,
+67_ebrews: 1:1 God, that spak sum tyme bi prophetis in many maneres to oure fadris, at the
+68_james: 1:1 James, the seruaunt of God, and of oure Lord Jhesu Crist, to the twelue kinredis, that ben in scatering abrood, helthe.
+69_1_petre: 1:1 Petre, apostle of Jhesu Crist, to the chosun men, to the comelingis of scateryng abrood, of Ponte, of Galathie, of Capadosie,
+70_2_petre: 1:1 Simount Petre, seruaunt and apostle of `Jhesu Crist, to hem that han take with vs the euene feith, in the riytwisnesse of oure God and sauyour Jhesu Crist,
+71_1_joon: 1:1 That thing that was fro the bigynnyng, which we herden, which we sayn with oure iyen, which we bihelden, and oure hondis touchiden, of the word of lijf; and the lijf is schewid.
+72_2_joon: 1:1 The eldere man, to the chosun ladi, and to her children, whiche Y loue in treuthe; and not Y aloone, but also alle men that knowen treuthe;
+73_3_joon: 1:1 The eldere man to Gayus, most dere brother, whom Y loue in treuthe.
+74_judas: 1:1 Judas, the seruaunt of Jhesu Crist, and brother of James, to these that ben louyd, that ben in God the fadir, and to hem that ben clepid and kept of Jhesu Crist,
+75_apocalips: 1:1 Apocalips of Jhesu Crist, which God yaf to hym to make open to hise seruauntis, whiche thingis it bihoueth to be maad soone. And he signyfiede, sending bi his aungel to his seruaunt Joon,
+76_laodicensis: 1:1 Poul, apostle, not of men, ne by man, but bi Jhesu Crist, `to the britheren that ben at Laodice,

@@ -1,0 +1,66 @@
+01_genesis: 1:1 In yͤ begynnynge God created heauen & earth:
+02_exodus: 1:1 These are yͤ names of the childrē of Israel, that came with Iacob into Egipte: euery one came in wͭ his house,
+03_leviticus: 1:1 And the LORDE called Moses, and spake vnto him out of yͤ Tabernacle of wytnesse, and sayde:
+04_numbers: 1:1 And the LORDE spake vnto Moses in yͤ wyldernesse of Sinai, in the Tabernacle of witnesse, the first daye of the secode moneth in the seconde yeare, wha they were gone out of the lade of Egipte, and sayde:
+05_deuteronomy: 1:1 These are the wordes that Moses spake vnto all Israel on the other syde Iordane in the wildernesse, in the playne felde towarde the reed see, betwene Paran, Thophel, Laban, Hazeroth, and Disahab,
+06_joshua: 1:1 After the death of Moses the seruaunt of the LORDE , spake the LORDE vnto Iosua yͤ sonne of Nun Moses mynister:
+07_judges: 1:1 After the death of Iosua the children of Israel axed the LORDE , and sayde: Who shall go vp & be or captayne of warre against yͤ Cananites?
+08_ruth: 1:1 In yͤ tyme whan the Iudges ruled, there was a derth in the londe. And there wente a mā from Bethlee Iuda to take his iourney into the londe of the Moabites wͭ his wife and two sonnes,
+09_1samuel: 1:1 There was a man of Ramathaim Sophim of mount Ephraim, whose name was Elcana yͤ sonne of Ieroham, yͤ sonne of Elihu, yͤ sonne of Tohu, yͤ sonne of Zuph, yͭ was an Ephrate.
+10_2samuel: 1:1 After yͤ death of Saul whan Dauid was come agayne from the slaughter of yͤ Amalechites, and had remayned two dayes at Siclag,
+11_1kings: 1:1 And wha kinge Dauid was olde & well strycke in age, he coulde not be warme, though he was couered with clothes.
+12_2kings: 1:1 The Moabites also fell awaye from Israel, whan Achab was deed.
+13_1chronicles: 1:1 Adam, Seth, Enos,
+14_2chronicles: 1:1 And Salomon the sonne of Dauid was stablyshed in his kyngdome, and the LORDE his God was with him, & made him exceadinge greate.
+15_ezra: 1:1 In the first yeare of Cyrus kynge off Persia (that the worde of the LORDE spoken by the mouth of Ieremy might be fulfilled) the LORDE stered vp the sprete of Cyrus kynge of Persia, yͭ he caused it be proclamed thorow out all his empyre, yee and by wrytinge also, sayenge:
+16_nehemiah: 1:1 These are the actes of Nehemias the sonne of Hachalia. It fortuned in yͤ moneth Chisleu in yͤ twetieth yeare, that I was in the castell at Susan:
+17_esther: 1:1 In the tyme of Ahasuerus, which reigned from India vnto Ethiopia, ouer an hundreth and seuen and twentye londes,
+18_job: 1:1 In the lode of Hus there was a man called Iob: an innocent and vertuous man, soch one as feared God, and eschued euell.
+19_psalms: 1:1 O blessed is yͤ man, yͭ goeth not in the councell of yͤ vngodly: yͭ abydeth not in the waye off synners, & sytteth not in yͤ seate of the scornefull.
+20_proverbs: 1:1 These are the prouerbes of Salomon the sonne of Dauid kynge of Israel:
+21_ecclesiastes: 1:1 These are the wordes of the Preacher, the sonne of Dauid, kynge of Ierusalem.
+22_songofsongs: 1:1 Salomons Balettes, called Cantica Canticorum.
+23_isaiah: 1:1 This is the prophecy of Esay the sonne of Amos, which he shewed vpon Iuda and Ieruasalem: In the tyme of Osias, Ioathan, Ahas, and Ezechias kynges of Iuda.
+24_jeremiah: 1:1 These are the Sermons of Ieremy the sonne of Helchia the prest, one of them that dwelt at Anathot in the londe of Ben Iamin:
+25_lamentations: 1:1 Alas, how sitteth the cite so desolate, yͭ some tyme was full of people? how is she become like a wedowe, which was the lady of all nacions? How is she brought vnder tribute, that ruled all londes?
+26_ezekiel: 1:1 It chaused, in the xxx. yeare the fifth daye off the fourth Moneth, that I was amonge the presoners by the ryuer off Cobar: where the heauens opened, & I sawe a vision of God.
+27_daniel: 1:1 In yͤ thirde yeare of yͤ raigne of Ioachim kynge off Iuda, came Nabuchodonosor kynge of Babilon vnto Ierusalem, & beseged it:
+28_hosea: 1:1 This is the worde of the LORDE , that came vnto Oseas the sonne of Beeri, in the dayes of Osias, Ioathan, Achas & Ezechias kinges of Iuda: and in the tyme of Ieroboam the sonne of Ioas kynge of Israel.
+29_joel: 1:1 This is the worde of the LORDE , that came vnto Ioel the sonne of Phatuel:
+30_amos: 1:1 These are the sermons, that were shewed vnto Amos (which was one of the shepherdes at Thecua) vpon Israel, in the tyme of Osias kynge of Iuda, & in the tyme of Ieroboa yͤ sonne of Ioas kynge of Israel, two yeare before yͤ earthquake
+31_obadiah: 1:1 This is the vision that was shewed vnto Abdy: Thus hath yͤ LORDE God spoke vpo Edo: We haue herde of the LORDE yͭ there is an embassage sent amonge the Heithen: Vp, let vs aryse, and fight agaynst them.
+32_jonah: 1:1 The worde of the LORDE came vnto Ionas the sonne of Amithai, sayenge:
+33_micah: 1:1 This is the worde of the LORDE , that came vnto Micheas the Morastite, in the dayes of Ioathan, Achas and Ezechias kiges of Iuda: which was shewed him vpon Samaria and Ierusalem.
+34_nahum: 1:1 This is the heuy burthen of Niniue, which Naum of Elchos dyd wryte, as he sawe it.
+35_habakkuk: 1:1 This is the heuy burthe, which the prophet Abacuc dyd se.
+36_zephaniah: 1:1 This is the worde of the LORDE , which came vnto Sophony the sonne of Chusi, the sonne of Gedolias, the sonne of Amarias yͤ sonne of Hezechias: in the tyme of Iosias the sonne of Amon kinge of Iuda.
+37_haggai: 1:1 In the seconde yeare of kynge Darius, in the vj. moneth the first daye of the moneth, came the worde of the LORDE (by the prophet Aggeus) vnto Zorobabel the sonne of Salathiel yͤ prynce of Iuda, and to Iesua the sonne of Iosedec the hye prest, sayenge:
+38_zechariah: 1:1 In the eight moneth of the secode yeare of kinge Darius, came the worde of the LORDE vnto Zachary the sonne of Barachias, the sonne of Addo, the prophet, sayenge:
+39_malachi: 1:1 The heuy burthen which the LORDE sheweth agaynst Israel by Malachy.
+40_matthew: 1:1 This is the boke of the generacion of Iesus Christ yͤ sonne of Dauid, the sonne of Abraham.
+41_mark: 1:1 This is the begynnynge of the gospell of Iesus Christ the sonne of God,
+42_luke: 1:1 For so moch as many haue taken in hande, to set forth yͤ wordes of the actes that are come to passe amonge vs,
+43_john: 1:1 In the begynnynge was the worde, and the worde was with God, and God was yͤ worde.
+44_acts: 1:1 The first treatise (deare Theophilus) haue I made of all that Iesus beganne to do and to teache,
+45_romans: 1:1 Pavl the seruaunte of Iesus Christ, called to be an Apostle, put aparte to preach the Gospell of God
+46_1corinthians: 1:1 Paul, called to be an Apostle of Iesus Christ thorow yͤ will of God, and brother Sosthenes,
+47_2corinthians: 1:1 Paul an Apostle of Iesu Christ, by the will of God, and brother Timotheus. Vnto the congregacion of God which is at Corinthu, with all the sayntes which are i all Achaia.
+48_galatians: 1:1 Paul an Apostle (not of men, nor by ma, but by Iesus Christ & by God the father, which raysed him vp frō yͤ deed)
+49_ephesians: 1:1 Paul an Apostle of Iesus Christ by the will of God. To yͤ sayntes which are Ephesus, & to the that beleue on Iesus Christ.
+50_philippians: 1:1 Paul and Timotheus the seruauntes of Iesu Christ. Vnto all the sayntes in Iesu Christ, which are at Philippos, with the Bisshoppes and mynisters.
+51_colossians: 1:1 Paul an Apostle of Iesu Christ by the will of God, and brother Timotheus.
+52_1thessalonians: 1:1 Pavl and Siluanus and Timotheus. Vnto the cogregacion of the Tessalonyans, in God the father and in the LORDE Iesus Christ. Grace be with you, and peace from God oure father and from the LORDE Iesus Christ.
+53_2thessalonians: 1:1 Pavl and Siluanus and Timotheus. To the congregacion of yͤ Tessalonias in God oure father and in the LORDE Iesus Christ.
+54_1timothy: 1:1 Paul an Apostle of Iesus Christ acordinge to the commaundement of God oure Sauioure, and of the LORDE Iesus Christ, which is oure hope.
+55_2timothy: 1:1 Paul an Apostle of Iesus Christ, by the wyll of God, to preach the promes of yͤ life which is in Christ Iesu.
+56_titus: 1:1 Pavl the seruaunt of God, and an Apostle off Iesus Christ, to preach the faith off Gods electe, and the knowlege of yͤ trueth, which ledeth vnto godlynes,
+57_philemon: 1:1 Paul the presoner of Iesu Christ, and brother Timotheus. Vnto Philemon the beloued, and oure helper,
+58_hebrews: 1:1 God in tyme past dyuersly & many wayes, spake vnto yͤ fathers by prophetes,
+59_james: 1:1 Iames the seruaunt of God and of the LORDE Iesus Christ, sendeth gretinge to the xij. trybes which are scatered here & there.
+60_1peter: 1:1 Peter an Apostle of Iesu Christ, to the that dwell here and there as straungers thorow out Pontus, Galacia, Capadocia, Asia and Bithinia, electe
+61_2peter: 1:1 Symon Peter a seruaut and an Apostle of Iesus Christ. Vnto the which haue optayned like faith with vs in the righteousnes that commeth of oure God, and Sauioure Iesus Christ.
+62_1john: 1:1 That which was from yͤ begynnynge, which we haue herde, which we haue sene with or eyes, which we haue loked vpon, and or handes haue handled of the worde of life:
+63_2john: 1:1 The Elder. To yͤ electe lady and hir childrē whom I loue in the trueth: & not I onely, but all they also that haue knowne the trueth,
+64_3john: 1:1 The Elder. To the beloued Gaius, whom I loue in the trueth.
+65_jude: 1:1 Ivdas the seruaunt of Iesus Christ, the brother off Iames. To the which are called, and sanctified in God the father, and preserued in Iesu Christ.
+66_revelation: 1:1 The reuelacion of Iesus Christ, which God gaue vnto him, for to shewe vnto his seruautes thiges which muste shortly come to passe. And he sent and shewed by his angel vnto his seruaunt Ihon
