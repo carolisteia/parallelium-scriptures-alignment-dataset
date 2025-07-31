@@ -89,6 +89,17 @@ The Biblical and Qur’anic texts were selected for their **structural compatibi
 
 > \* *These texts are not publicly shareable due to copyright restrictions.*
 
+## 🙏 Credits
+
+We gratefully acknowledge the following scholars and institutions for their contributions of source material or expertise:
+
+- **Pere Casanellas (Corpus Biblicum Catalanicum)** – Catalan biblical texts based on the Egerton, Peiresc, and Colbert manuscripts  
+- **Claudio Lagomarsini** – Provided French texts of *Esther*, *Judith*, and *Ruth* (Bible du XIIIe siècle)  
+- **Mouhamadoul-Khaly Wélé** – Multilingual aligned dataset based on the Quran  
+- **Seth Middelton** – French transcription of the Gospel of *Matthew* (Bible du XIIIe siècle)  
+- **Peter Stokes & Mark Faulkner** – Advice and recommendations regarding available Middle English corpora
+
+
 ➡️ See [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md) for notes on structural complexity, exclusions, and philological variation.
 
 ---
