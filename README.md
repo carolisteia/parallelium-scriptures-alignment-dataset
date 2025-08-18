@@ -97,8 +97,6 @@ We gratefully acknowledge the following scholars and institutions for their cont
 - **Claudio Lagomarsini** – Provided French texts of *Esther*, *Judith*, and *Ruth* (Bible du XIIIe siècle)  
 - **Mouhamadoul-Khaly Wélé** – Multilingual aligned dataset based on the Quran  
 - **Seth Middelton** – French transcription of the Gospel of *Matthew* (Bible du XIIIe siècle)  
-- **Peter Stokes & Mark Faulkner** – Advice and recommendations regarding available Middle English corpora
-
 
 ➡️ See [docs/biblical_alignment_challenges.md](docs/biblical_alignment_challenges.md) for notes on structural complexity, exclusions, and philological variation.
 
